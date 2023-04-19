@@ -38,6 +38,6 @@
 <strong>DENÎZİN KENARINDA YANI :D</strong>
 <br>
 <p> bu deniz</p>
-<a>href="https://www.instagram.com/reel/Cqs9eyTvmFJ/?igshid=OGRjNzg3M2Y="</a>
-<img src="https://images.app.goo.gl/FmnuhNE7xf4ZS64f8">
+<a>href="https://tr.m.wikipedia.org/wiki/Ne%C5%9F%27e_Erdok" </a>
+
 
