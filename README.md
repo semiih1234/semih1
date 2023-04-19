@@ -23,3 +23,21 @@
 <h1>EGE TAM BIR MAL</h1>
 <body>
 <emg>defnelerin apt cook iyi</emg>
+
+
+
+
+<doctypehtml>
+<html>
+<body>
+<head><title>BU BENİM 2. YAZILIMIM</title></head>
+<br>
+<p><h1>bugun 1 saat yazilim calistim</h1></p>
+<em> ama kalbim bitti bayramda devam etcem </em>
+<br>
+<strong>DENÎZİN KENARINDA YANI :D</strong>
+<br>
+<p> bu deniz</p>
+<a>href="https://www.instagram.com/reel/Cqs9eyTvmFJ/?igshid=OGRjNzg3M2Y="</a>
+<img src="https://images.app.goo.gl/FmnuhNE7xf4ZS64f8">
+
