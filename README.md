@@ -38,6 +38,6 @@
 <strong>DENÎZİN KENARINDA YANI :D</strong>
 <br>
 <p> bu deniz</p>
-<a>href="https://tr.m.wikipedia.org/wiki/Ne%C5%9F%27e_Erdok" </a>
+<a href="https://tr.m.wikipedia.org/wiki/Ne%C5%9F%27e_Erdok">
 
 
