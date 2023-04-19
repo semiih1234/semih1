@@ -30,7 +30,7 @@
 <doctypehtml>
 <html>
 <body>
-<head><title>BU BENİM 2. YAZILIMIM</title></head>
+<head><title>BU BENİM 2. YAZILIMIM<title></head>
 <br>
 <p><h1>bugun 1 saat yazilim calistim</h1></p>
 <em> ama kalbim bitti bayramda devam etcem </em>
